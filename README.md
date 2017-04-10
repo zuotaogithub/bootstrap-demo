@@ -1,8 +1,8 @@
-**bootstrap demo**
+#bootstrap demo
 
 
 
-#nginx服务器配置#
+#nginx服务器配置 
 > 配置config
 >   开发目录： E:/codeDev
 >   生产目录： D:/snserDev

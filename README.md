@@ -45,16 +45,4 @@
 
 > 9.  安装sass 
         gem install sass --http-proxy http://10.19.110.32:8080/
-
-
-
-
-> [younghz的Markdown库](https:://github.com/zuotaogithub/ "bootstrap-demo")
-
-
-> [younghz的Markdown库1][1]    
-> [younghz的Markdown库2][2]
-
-[1]: https:://github.com/zuotaogithub/ "bootstrap-demo"
-[2]: https:://github.com/zuotaogithub/ "bootstrap-demo"
 > `ctrl ＋ c`
